@@ -1,14 +1,17 @@
 # The Magic Ball
+This application is a simple console implementation of the magic ball "Magic 8 ball" in Ruby.
 
-Данное приложения - это простая консольная реализация магическо шара "Magic 8 ball" на языке Ruby.
-###### [Описание "Magic 8 ball" на Википедии](https://ru.wikipedia.org/wiki/Magic_8_ball)
+#### [Description of "Magic 8 ball" on Wikipedia](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
-Magic Ball помогает нам принимать решения. 
-Для того - чтобы узнать ответ на интересующий ваш вопрос - 
-загадайте его в уме и запустите приложение:
-```
+Magic Ball helps us make decisions.
+In order to find out the answer to your question -
+guess it in your mind and run the application:
+
+```ruby
 ruby main.rb
 ```
-Программа немного подумает и даст свой ответ.
 
-Автор: [Рабадан Акагасанов](https://github.com/rabadan)
+The program will think a little and give its answer.
+
+Author: 
+### [Rabadan Akagasanov](http://rabadan.ru)
